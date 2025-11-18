@@ -3,5 +3,45 @@
         "name": "SoFlo Wheelie Life",
         "slug": "soflo-wheelie-life",
         "image": "/cache/data/image/game/soflo-wheelie-life/soflowheelie-life-game-m186x186.webp"
+    },
+    {
+        "name": "Wheelie Life",
+        "slug": "wheelie-life",
+        "image": "/cache/data/image/game/wheelie-life-m186x186.webp"
+    },
+    {
+        "name": "Moto X3M",
+        "slug": "moto-x3m",
+        "image": "/cache/data/image/game/moto-x3m/moto-x3m-m186x186.webp"
+    },
+    {
+        "name": "Bike Xtreme",
+        "slug": "bike-xtreme",
+        "image": "/cache/data/image/game/bike-xtreme/bike-xtreme-2-m186x186.webp"
+    },
+    {
+        "name": "Ramp Xtreme",
+        "slug": "ramp-xtreme",
+        "image": "/cache/data/image/game/ramp-xtreme/ramp-xtreme-m186x186.webp"
+    },
+    {
+        "name": "Wheelie Bike",
+        "slug": "wheelie-bike",
+        "image": "/cache/data/image/game/wheelie-bike/wheelie-bike-m186x186.webp"
+    },
+    {
+        "name": "Biker Street",
+        "slug": "biker-street",
+        "image": "/cache/data/image/game/biker-street/biker-street-3-m186x186.webp"
+    },
+    {
+        "name": "Wheelie Cross",
+        "slug": "wheelie-cross",
+        "image": "/cache/data/image/game/wheelie-cross/wheelie-cross-m186x186.webp"
+    },
+    {
+        "name": "Wheelie Up",
+        "slug": "wheelie-up",
+        "image": "/cache/data/image/game/wheelie-up/wheelie-up-m186x186.webp"
     }
 ]
